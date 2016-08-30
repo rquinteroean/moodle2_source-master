@@ -5,10 +5,10 @@
         id        = "com.moodle.moodlemobile"
         versionCode = "2010"
         version   = "2.9">
-    <name>Moodle Mobile</name>
+    <name>Univirtual Universidad EAN</name>
 
     <description>
-        Moodle Mobile official app
+        Aplicación para aceso  la plataforma Moodle de la Universidad EAN
     </description>
 
     <author href="http://moodle.com" email="mobile@moodle.com">
